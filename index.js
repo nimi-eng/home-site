@@ -523,39 +523,15 @@ const testimonials = [
         text:
             "NimiTech didn't just build our app — they helped us completely rethink how we serve our customers. Revenue tripled in 6 months.",
 
-        name: 'Aisha Okon',
+        name: 'Aisha yamal',
 
-        role: 'CEO, FreshFarm Nigeria',
+        role: 'CEO, FreshFarm ',
 
-        image: 'https://i.pravatar.cc/100?img=12'
-
-    },
-
-    {
-
-        text:
-            'The most professional and responsive team we have worked with in the African tech space. Our new ERP is a game changer.',
-
-        name: 'Kwame Mensah',
-
-        role: 'MD, Accra Logistics',
-
-        image: 'https://i.pravatar.cc/100?img=32'
+        image: 'img/images.jpeg'
 
     },
 
-    {
 
-        text:
-            'They truly understand the African market. Our fintech platform launched in three countries in record time.',
-
-        name: 'Fatou Diallo',
-
-        role: 'Founder, SahelPay',
-
-        image: 'https://i.pravatar.cc/100?img=47'
-
-    }
 
 ];
 
